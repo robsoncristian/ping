@@ -1,0 +1,21 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "Verifica status de servidor",
+  "license": "MIT",
+  "main": "index.js",
+  "category": "miscellaneous",
+  "rung": {
+    "title": "Ping",
+    "preview": "Hello, Trixie!"
+  },
+  "dependencies": {
+    "rung-sdk": "^1.0.6"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "rung-cli": "0.4.2"
+  }
+}
